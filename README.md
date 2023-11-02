@@ -25,16 +25,6 @@
 <br/>
 
 <div align="center">
-  <h3>My contributions</h3>
-  <br/>
-  <img src="https://github.com/Mok-Mokthar/Mok-Mokthar/assets/77698177/c7d78eff-db25-441f-8288-30da6b0a7982"/>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<div align="center">
   <h3>More stats</h3>
   <br/>
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Mok-Mokthar&show_icons=true&theme=radical" />
